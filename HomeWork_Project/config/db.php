@@ -3,7 +3,7 @@ declare(strict_types=1);
 $DB_HOST = "mysql-miri.alwaysdata.net";
 $DB_NAME = "miri_driving";
 $DB_USER = "miri";        
-$DB_PASS = "9ZS!j*_Mek3#FB3";
+$DB_PASS = "XXXXXX";
 
 $options = [
     PDO::ATTR_ERRMODE            => PDO::ERRMODE_EXCEPTION,
@@ -22,3 +22,4 @@ try {
     http_response_code(500);
     exit("Database connection failed");
 }
+
