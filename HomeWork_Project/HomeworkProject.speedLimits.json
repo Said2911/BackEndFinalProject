@@ -1,0 +1,35 @@
+[{
+  "_id": {
+    "$oid": "68297b031f0e6f42acf16de1"
+  },
+  "idSpeedLimit": "1",
+  "speedLimit_km_h": "20"
+},
+{
+  "_id": {
+    "$oid": "68297b031f0e6f42acf16de2"
+  },
+  "idSpeedLimit": "2",
+  "speedLimit_km_h": "40"
+},
+{
+  "_id": {
+    "$oid": "68297b031f0e6f42acf16de3"
+  },
+  "idSpeedLimit": "3",
+  "speedLimit_km_h": "60"
+},
+{
+  "_id": {
+    "$oid": "68297b031f0e6f42acf16de4"
+  },
+  "idSpeedLimit": "4",
+  "speedLimit_km_h": "80"
+},
+{
+  "_id": {
+    "$oid": "68297b031f0e6f42acf16de5"
+  },
+  "idSpeedLimit": "5",
+  "speedLimit_km_h": "100"
+}]

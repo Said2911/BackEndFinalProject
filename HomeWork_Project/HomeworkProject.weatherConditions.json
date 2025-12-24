@@ -1,0 +1,77 @@
+[{
+  "_id": {
+    "$oid": "6829799d1f0e6f42acf16dc0"
+  },
+  "idWeatherCond": "1",
+  "weatherType": "sunny"
+},
+{
+  "_id": {
+    "$oid": "6829799d1f0e6f42acf16dc1"
+  },
+  "idWeatherCond": "2",
+  "weatherType": "cloudy"
+},
+{
+  "_id": {
+    "$oid": "6829799d1f0e6f42acf16dc2"
+  },
+  "idWeatherCond": "3",
+  "weatherType": "windy"
+},
+{
+  "_id": {
+    "$oid": "6829799d1f0e6f42acf16dc3"
+  },
+  "idWeatherCond": "4",
+  "weatherType": "rainy"
+},
+{
+  "_id": {
+    "$oid": "6829799d1f0e6f42acf16dc4"
+  },
+  "idWeatherCond": "5",
+  "weatherType": "snowy"
+},
+{
+  "_id": {
+    "$oid": "6829799d1f0e6f42acf16dc5"
+  },
+  "idWeatherCond": "6",
+  "weatherType": "cold"
+},
+{
+  "_id": {
+    "$oid": "6829799d1f0e6f42acf16dc6"
+  },
+  "idWeatherCond": "7",
+  "weatherType": "stormy"
+},
+{
+  "_id": {
+    "$oid": "6829799d1f0e6f42acf16dc7"
+  },
+  "idWeatherCond": "8",
+  "weatherType": "foggy"
+},
+{
+  "_id": {
+    "$oid": "6829799d1f0e6f42acf16dc8"
+  },
+  "idWeatherCond": "9",
+  "weatherType": "misty"
+},
+{
+  "_id": {
+    "$oid": "6829799d1f0e6f42acf16dc9"
+  },
+  "idWeatherCond": "10",
+  "weatherType": "cool"
+},
+{
+  "_id": {
+    "$oid": "6829799d1f0e6f42acf16dca"
+  },
+  "idWeatherCond": "11",
+  "weatherType": "chilly"
+}]

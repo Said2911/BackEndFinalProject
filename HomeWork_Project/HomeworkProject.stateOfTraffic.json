@@ -1,0 +1,42 @@
+[{
+  "_id": {
+    "$oid": "68297ad21f0e6f42acf16dda"
+  },
+  "idStateOfTraffic": "1",
+  "traffic": "free-flow"
+},
+{
+  "_id": {
+    "$oid": "68297ad21f0e6f42acf16ddb"
+  },
+  "idStateOfTraffic": "2",
+  "traffic": "light"
+},
+{
+  "_id": {
+    "$oid": "68297ad21f0e6f42acf16ddc"
+  },
+  "idStateOfTraffic": "3",
+  "traffic": "moderate"
+},
+{
+  "_id": {
+    "$oid": "68297ad21f0e6f42acf16ddd"
+  },
+  "idStateOfTraffic": "4",
+  "traffic": "heavy"
+},
+{
+  "_id": {
+    "$oid": "68297ad21f0e6f42acf16dde"
+  },
+  "idStateOfTraffic": "5",
+  "traffic": "stop-and-go"
+},
+{
+  "_id": {
+    "$oid": "68297ad21f0e6f42acf16ddf"
+  },
+  "idStateOfTraffic": "6",
+  "traffic": "rush hour"
+}]

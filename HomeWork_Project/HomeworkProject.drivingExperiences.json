@@ -1,0 +1,700 @@
+[{
+  "_id": {
+    "$oid": "682979531f0e6f42acf16d8a"
+  },
+  "idDrivingExp": "1",
+  "date": "2024-07-11",
+  "startTime": "16:20:00",
+  "endTime": "18:00:00",
+  "distance_in_km": "38",
+  "idWeatherCond": "4",
+  "idRoadCond": "2",
+  "idStateOfTraffic": "5",
+  "idSpeedLimit": "3"
+},
+{
+  "_id": {
+    "$oid": "682979531f0e6f42acf16d8b"
+  },
+  "idDrivingExp": "2",
+  "date": "2024-07-16",
+  "startTime": "17:00:00",
+  "endTime": "18:20:00",
+  "distance_in_km": "70",
+  "idWeatherCond": "10",
+  "idRoadCond": "1",
+  "idStateOfTraffic": "2",
+  "idSpeedLimit": "3"
+},
+{
+  "_id": {
+    "$oid": "682979531f0e6f42acf16d8c"
+  },
+  "idDrivingExp": "3",
+  "date": "2024-07-23",
+  "startTime": "07:00:00",
+  "endTime": "07:40:00",
+  "distance_in_km": "15",
+  "idWeatherCond": "2",
+  "idRoadCond": "6",
+  "idStateOfTraffic": "3",
+  "idSpeedLimit": "1"
+},
+{
+  "_id": {
+    "$oid": "682979531f0e6f42acf16d8d"
+  },
+  "idDrivingExp": "4",
+  "date": "2024-07-30",
+  "startTime": "11:00:00",
+  "endTime": "13:50:00",
+  "distance_in_km": "180",
+  "idWeatherCond": "1",
+  "idRoadCond": "4",
+  "idStateOfTraffic": "1",
+  "idSpeedLimit": "4"
+},
+{
+  "_id": {
+    "$oid": "682979531f0e6f42acf16d8e"
+  },
+  "idDrivingExp": "5",
+  "date": "2024-08-02",
+  "startTime": "07:15:00",
+  "endTime": "08:45:00",
+  "distance_in_km": "55",
+  "idWeatherCond": "3",
+  "idRoadCond": "1",
+  "idStateOfTraffic": "2",
+  "idSpeedLimit": "2"
+},
+{
+  "_id": {
+    "$oid": "682979531f0e6f42acf16d8f"
+  },
+  "idDrivingExp": "6",
+  "date": "2024-08-02",
+  "startTime": "18:30:00",
+  "endTime": "21:00:00",
+  "distance_in_km": "40",
+  "idWeatherCond": "4",
+  "idRoadCond": "2",
+  "idStateOfTraffic": "5",
+  "idSpeedLimit": "1"
+},
+{
+  "_id": {
+    "$oid": "682979531f0e6f42acf16d90"
+  },
+  "idDrivingExp": "7",
+  "date": "2024-08-05",
+  "startTime": "06:00:00",
+  "endTime": "07:30:00",
+  "distance_in_km": "60",
+  "idWeatherCond": "5",
+  "idRoadCond": "1",
+  "idStateOfTraffic": "3",
+  "idSpeedLimit": "3"
+},
+{
+  "_id": {
+    "$oid": "682979531f0e6f42acf16d91"
+  },
+  "idDrivingExp": "8",
+  "date": "2024-08-11",
+  "startTime": "14:20:00",
+  "endTime": "16:50:00",
+  "distance_in_km": "110",
+  "idWeatherCond": "5",
+  "idRoadCond": "4",
+  "idStateOfTraffic": "1",
+  "idSpeedLimit": "2"
+},
+{
+  "_id": {
+    "$oid": "682979531f0e6f42acf16d92"
+  },
+  "idDrivingExp": "9",
+  "date": "2024-08-11",
+  "startTime": "21:00:00",
+  "endTime": "22:00:00",
+  "distance_in_km": "25",
+  "idWeatherCond": "8",
+  "idRoadCond": "4",
+  "idStateOfTraffic": "6",
+  "idSpeedLimit": "1"
+},
+{
+  "_id": {
+    "$oid": "682979531f0e6f42acf16d93"
+  },
+  "idDrivingExp": "10",
+  "date": "2024-08-13",
+  "startTime": "08:45:00",
+  "endTime": "10:00:00",
+  "distance_in_km": "50",
+  "idWeatherCond": "7",
+  "idRoadCond": "4",
+  "idStateOfTraffic": "4",
+  "idSpeedLimit": "3"
+},
+{
+  "_id": {
+    "$oid": "682979531f0e6f42acf16d94"
+  },
+  "idDrivingExp": "11",
+  "date": "2024-08-20",
+  "startTime": "16:00:00",
+  "endTime": "17:10:00",
+  "distance_in_km": "35",
+  "idWeatherCond": "7",
+  "idRoadCond": "2",
+  "idStateOfTraffic": "3",
+  "idSpeedLimit": "3"
+},
+{
+  "_id": {
+    "$oid": "682979531f0e6f42acf16d95"
+  },
+  "idDrivingExp": "12",
+  "date": "2024-08-20",
+  "startTime": "07:15:00",
+  "endTime": "09:15:00",
+  "distance_in_km": "150",
+  "idWeatherCond": "10",
+  "idRoadCond": "1",
+  "idStateOfTraffic": "2",
+  "idSpeedLimit": "5"
+},
+{
+  "_id": {
+    "$oid": "682979531f0e6f42acf16d96"
+  },
+  "idDrivingExp": "13",
+  "date": "2024-08-21",
+  "startTime": "07:15:00",
+  "endTime": "08:00:00",
+  "distance_in_km": "30",
+  "idWeatherCond": "6",
+  "idRoadCond": "6",
+  "idStateOfTraffic": "5",
+  "idSpeedLimit": "2"
+},
+{
+  "_id": {
+    "$oid": "682979531f0e6f42acf16d97"
+  },
+  "idDrivingExp": "14",
+  "date": "2024-08-27",
+  "startTime": "13:00:00",
+  "endTime": "15:30:00",
+  "distance_in_km": "95",
+  "idWeatherCond": "9",
+  "idRoadCond": "4",
+  "idStateOfTraffic": "4",
+  "idSpeedLimit": "3"
+},
+{
+  "_id": {
+    "$oid": "682979531f0e6f42acf16d98"
+  },
+  "idDrivingExp": "15",
+  "date": "2024-09-01",
+  "startTime": "17:45:00",
+  "endTime": "19:15:00",
+  "distance_in_km": "65",
+  "idWeatherCond": "11",
+  "idRoadCond": "2",
+  "idStateOfTraffic": "6",
+  "idSpeedLimit": "3"
+},
+{
+  "_id": {
+    "$oid": "682979531f0e6f42acf16d99"
+  },
+  "idDrivingExp": "16",
+  "date": "2024-09-05",
+  "startTime": "06:40:00",
+  "endTime": "07:45:00",
+  "distance_in_km": "45",
+  "idWeatherCond": "1",
+  "idRoadCond": "2",
+  "idStateOfTraffic": "3",
+  "idSpeedLimit": "3"
+},
+{
+  "_id": {
+    "$oid": "682979531f0e6f42acf16d9a"
+  },
+  "idDrivingExp": "17",
+  "date": "2024-09-05",
+  "startTime": "12:15:00",
+  "endTime": "14:05:00",
+  "distance_in_km": "30",
+  "idWeatherCond": "4",
+  "idRoadCond": "1",
+  "idStateOfTraffic": "5",
+  "idSpeedLimit": "4"
+},
+{
+  "_id": {
+    "$oid": "682979531f0e6f42acf16d9b"
+  },
+  "idDrivingExp": "18",
+  "date": "2024-09-12",
+  "startTime": "08:00:00",
+  "endTime": "09:20:00",
+  "distance_in_km": "55",
+  "idWeatherCond": "3",
+  "idRoadCond": "3",
+  "idStateOfTraffic": "2",
+  "idSpeedLimit": "3"
+},
+{
+  "_id": {
+    "$oid": "682979531f0e6f42acf16d9c"
+  },
+  "idDrivingExp": "19",
+  "date": "2024-09-12",
+  "startTime": "18:45:00",
+  "endTime": "20:30:00",
+  "distance_in_km": "50",
+  "idWeatherCond": "2",
+  "idRoadCond": "1",
+  "idStateOfTraffic": "1",
+  "idSpeedLimit": "2"
+},
+{
+  "_id": {
+    "$oid": "682979531f0e6f42acf16d9d"
+  },
+  "idDrivingExp": "20",
+  "date": "2024-09-15",
+  "startTime": "10:15:00",
+  "endTime": "11:30:00",
+  "distance_in_km": "50",
+  "idWeatherCond": "5",
+  "idRoadCond": "5",
+  "idStateOfTraffic": "1",
+  "idSpeedLimit": "2"
+},
+{
+  "_id": {
+    "$oid": "682979531f0e6f42acf16d9e"
+  },
+  "idDrivingExp": "21",
+  "date": "2024-09-23",
+  "startTime": "09:00:00",
+  "endTime": "11:30:00",
+  "distance_in_km": "120",
+  "idWeatherCond": "7",
+  "idRoadCond": "3",
+  "idStateOfTraffic": "2",
+  "idSpeedLimit": "4"
+},
+{
+  "_id": {
+    "$oid": "682979531f0e6f42acf16d9f"
+  },
+  "idDrivingExp": "22",
+  "date": "2024-09-25",
+  "startTime": "07:00:00",
+  "endTime": "08:15:00",
+  "distance_in_km": "40",
+  "idWeatherCond": "8",
+  "idRoadCond": "3",
+  "idStateOfTraffic": "2",
+  "idSpeedLimit": "3"
+},
+{
+  "_id": {
+    "$oid": "682979531f0e6f42acf16da0"
+  },
+  "idDrivingExp": "23",
+  "date": "2024-10-02",
+  "startTime": "16:30:00",
+  "endTime": "18:00:00",
+  "distance_in_km": "60",
+  "idWeatherCond": "10",
+  "idRoadCond": "4",
+  "idStateOfTraffic": "3",
+  "idSpeedLimit": "3"
+},
+{
+  "_id": {
+    "$oid": "682979531f0e6f42acf16da1"
+  },
+  "idDrivingExp": "24",
+  "date": "2024-10-09",
+  "startTime": "09:45:00",
+  "endTime": "11:10:00",
+  "distance_in_km": "20",
+  "idWeatherCond": "6",
+  "idRoadCond": "6",
+  "idStateOfTraffic": "5",
+  "idSpeedLimit": "1"
+},
+{
+  "_id": {
+    "$oid": "682979531f0e6f42acf16da2"
+  },
+  "idDrivingExp": "25",
+  "date": "2024-10-09",
+  "startTime": "21:20:00",
+  "endTime": "23:30:00",
+  "distance_in_km": "75",
+  "idWeatherCond": "9",
+  "idRoadCond": "1",
+  "idStateOfTraffic": "4",
+  "idSpeedLimit": "4"
+},
+{
+  "_id": {
+    "$oid": "682979531f0e6f42acf16da3"
+  },
+  "idDrivingExp": "26",
+  "date": "2024-10-10",
+  "startTime": "22:00:00",
+  "endTime": "23:30:00",
+  "distance_in_km": "85",
+  "idWeatherCond": "11",
+  "idRoadCond": "2",
+  "idStateOfTraffic": "1",
+  "idSpeedLimit": "3"
+},
+{
+  "_id": {
+    "$oid": "682979531f0e6f42acf16da4"
+  },
+  "idDrivingExp": "27",
+  "date": "2024-10-14",
+  "startTime": "13:30:00",
+  "endTime": "15:15:00",
+  "distance_in_km": "85",
+  "idWeatherCond": "1",
+  "idRoadCond": "1",
+  "idStateOfTraffic": "3",
+  "idSpeedLimit": "4"
+},
+{
+  "_id": {
+    "$oid": "682979531f0e6f42acf16da5"
+  },
+  "idDrivingExp": "28",
+  "date": "2024-10-23",
+  "startTime": "17:00:00",
+  "endTime": "18:45:00",
+  "distance_in_km": "20",
+  "idWeatherCond": "5",
+  "idRoadCond": "2",
+  "idStateOfTraffic": "6",
+  "idSpeedLimit": "2"
+},
+{
+  "_id": {
+    "$oid": "682979531f0e6f42acf16da6"
+  },
+  "idDrivingExp": "29",
+  "date": "2024-10-30",
+  "startTime": "08:15:00",
+  "endTime": "09:45:00",
+  "distance_in_km": "60",
+  "idWeatherCond": "5",
+  "idRoadCond": "5",
+  "idStateOfTraffic": "2",
+  "idSpeedLimit": "3"
+},
+{
+  "_id": {
+    "$oid": "682979531f0e6f42acf16da7"
+  },
+  "idDrivingExp": "30",
+  "date": "2024-11-06",
+  "startTime": "14:45:00",
+  "endTime": "16:00:00",
+  "distance_in_km": "50",
+  "idWeatherCond": "5",
+  "idRoadCond": "5",
+  "idStateOfTraffic": "4",
+  "idSpeedLimit": "2"
+},
+{
+  "_id": {
+    "$oid": "682979531f0e6f42acf16da8"
+  },
+  "idDrivingExp": "31",
+  "date": "2024-11-06",
+  "startTime": "14:45:00",
+  "endTime": "16:50:00",
+  "distance_in_km": "80",
+  "idWeatherCond": "7",
+  "idRoadCond": "1",
+  "idStateOfTraffic": "5",
+  "idSpeedLimit": "4"
+},
+{
+  "_id": {
+    "$oid": "682979531f0e6f42acf16da9"
+  },
+  "idDrivingExp": "32",
+  "date": "2024-11-07",
+  "startTime": "07:00:00",
+  "endTime": "08:20:00",
+  "distance_in_km": "45",
+  "idWeatherCond": "8",
+  "idRoadCond": "4",
+  "idStateOfTraffic": "3",
+  "idSpeedLimit": "3"
+},
+{
+  "_id": {
+    "$oid": "682979531f0e6f42acf16daa"
+  },
+  "idDrivingExp": "33",
+  "date": "2024-11-15",
+  "startTime": "12:00:00",
+  "endTime": "14:30:00",
+  "distance_in_km": "100",
+  "idWeatherCond": "3",
+  "idRoadCond": "2",
+  "idStateOfTraffic": "1",
+  "idSpeedLimit": "4"
+},
+{
+  "_id": {
+    "$oid": "682979531f0e6f42acf16dab"
+  },
+  "idDrivingExp": "34",
+  "date": "2024-11-22",
+  "startTime": "16:45:00",
+  "endTime": "18:15:00",
+  "distance_in_km": "65",
+  "idWeatherCond": "10",
+  "idRoadCond": "6",
+  "idStateOfTraffic": "6",
+  "idSpeedLimit": "3"
+},
+{
+  "_id": {
+    "$oid": "682979531f0e6f42acf16dac"
+  },
+  "idDrivingExp": "35",
+  "date": "2024-11-29",
+  "startTime": "09:30:00",
+  "endTime": "11:45:00",
+  "distance_in_km": "90",
+  "idWeatherCond": "6",
+  "idRoadCond": "1",
+  "idStateOfTraffic": "4",
+  "idSpeedLimit": "4"
+},
+{
+  "_id": {
+    "$oid": "682979531f0e6f42acf16dad"
+  },
+  "idDrivingExp": "36",
+  "date": "2024-12-05",
+  "startTime": "17:15:00",
+  "endTime": "19:00:00",
+  "distance_in_km": "75",
+  "idWeatherCond": "9",
+  "idRoadCond": "3",
+  "idStateOfTraffic": "4",
+  "idSpeedLimit": "3"
+},
+{
+  "_id": {
+    "$oid": "682979531f0e6f42acf16dae"
+  },
+  "idDrivingExp": "37",
+  "date": "2024-12-12",
+  "startTime": "06:30:00",
+  "endTime": "08:45:00",
+  "distance_in_km": "95",
+  "idWeatherCond": "11",
+  "idRoadCond": "5",
+  "idStateOfTraffic": "5",
+  "idSpeedLimit": "4"
+},
+{
+  "_id": {
+    "$oid": "682979531f0e6f42acf16daf"
+  },
+  "idDrivingExp": "38",
+  "date": "2024-12-19",
+  "startTime": "13:00:00",
+  "endTime": "14:15:00",
+  "distance_in_km": "55",
+  "idWeatherCond": "11",
+  "idRoadCond": "2",
+  "idStateOfTraffic": "3",
+  "idSpeedLimit": "3"
+},
+{
+  "_id": {
+    "$oid": "682979531f0e6f42acf16db0"
+  },
+  "idDrivingExp": "39",
+  "date": "2024-12-24",
+  "startTime": "08:00:00",
+  "endTime": "10:30:00",
+  "distance_in_km": "110",
+  "idWeatherCond": "4",
+  "idRoadCond": "4",
+  "idStateOfTraffic": "1",
+  "idSpeedLimit": "4"
+},
+{
+  "_id": {
+    "$oid": "682979531f0e6f42acf16db1"
+  },
+  "idDrivingExp": "40",
+  "date": "2024-12-24",
+  "startTime": "15:45:00",
+  "endTime": "17:30:00",
+  "distance_in_km": "30",
+  "idWeatherCond": "2",
+  "idRoadCond": "1",
+  "idStateOfTraffic": "6",
+  "idSpeedLimit": "1"
+},
+{
+  "_id": {
+    "$oid": "682979531f0e6f42acf16db2"
+  },
+  "idDrivingExp": "41",
+  "date": "2024-12-25",
+  "startTime": "10:15:00",
+  "endTime": "12:00:00",
+  "distance_in_km": "85",
+  "idWeatherCond": "5",
+  "idRoadCond": "3",
+  "idStateOfTraffic": "2",
+  "idSpeedLimit": "4"
+},
+{
+  "_id": {
+    "$oid": "682979531f0e6f42acf16db3"
+  },
+  "idDrivingExp": "42",
+  "date": "2024-12-31",
+  "startTime": "19:00:00",
+  "endTime": "20:45:00",
+  "distance_in_km": "75",
+  "idWeatherCond": "7",
+  "idRoadCond": "2",
+  "idStateOfTraffic": "5",
+  "idSpeedLimit": "4"
+},
+{
+  "_id": {
+    "$oid": "682979531f0e6f42acf16db4"
+  },
+  "idDrivingExp": "43",
+  "date": "2025-01-07",
+  "startTime": "07:40:00",
+  "endTime": "09:15:00",
+  "distance_in_km": "60",
+  "idWeatherCond": "8",
+  "idRoadCond": "6",
+  "idStateOfTraffic": "3",
+  "idSpeedLimit": "3"
+},
+{
+  "_id": {
+    "$oid": "682979531f0e6f42acf16db5"
+  },
+  "idDrivingExp": "44",
+  "date": "2025-01-14",
+  "startTime": "14:30:00",
+  "endTime": "16:30:00",
+  "distance_in_km": "105",
+  "idWeatherCond": "10",
+  "idRoadCond": "1",
+  "idStateOfTraffic": "4",
+  "idSpeedLimit": "4"
+},
+{
+  "_id": {
+    "$oid": "682979531f0e6f42acf16db6"
+  },
+  "idDrivingExp": "45",
+  "date": "2025-01-21",
+  "startTime": "16:00:00",
+  "endTime": "17:30:00",
+  "distance_in_km": "65",
+  "idWeatherCond": "3",
+  "idRoadCond": "2",
+  "idStateOfTraffic": "1",
+  "idSpeedLimit": "3"
+},
+{
+  "_id": {
+    "$oid": "682979531f0e6f42acf16db7"
+  },
+  "idDrivingExp": "46",
+  "date": "2025-01-28",
+  "startTime": "12:45:00",
+  "endTime": "14:30:00",
+  "distance_in_km": "55",
+  "idWeatherCond": "9",
+  "idRoadCond": "4",
+  "idStateOfTraffic": "6",
+  "idSpeedLimit": "4"
+},
+{
+  "_id": {
+    "$oid": "682979531f0e6f42acf16db8"
+  },
+  "idDrivingExp": "47",
+  "date": "2025-02-04",
+  "startTime": "12:45:00",
+  "endTime": "14:00:00",
+  "distance_in_km": "55",
+  "idWeatherCond": "9",
+  "idRoadCond": "3",
+  "idStateOfTraffic": "2",
+  "idSpeedLimit": "3"
+},
+{
+  "_id": {
+    "$oid": "682979531f0e6f42acf16db9"
+  },
+  "idDrivingExp": "48",
+  "date": "2025-02-11",
+  "startTime": "18:15:00",
+  "endTime": "20:30:00",
+  "distance_in_km": "100",
+  "idWeatherCond": "1",
+  "idRoadCond": "5",
+  "idStateOfTraffic": "5",
+  "idSpeedLimit": "4"
+},
+{
+  "_id": {
+    "$oid": "682979531f0e6f42acf16dba"
+  },
+  "idDrivingExp": "49",
+  "date": "2025-02-18",
+  "startTime": "07:30:00",
+  "endTime": "09:45:00",
+  "distance_in_km": "90",
+  "idWeatherCond": "1",
+  "idRoadCond": "1",
+  "idStateOfTraffic": "3",
+  "idSpeedLimit": "4"
+},
+{
+  "_id": {
+    "$oid": "682979531f0e6f42acf16dbb"
+  },
+  "idDrivingExp": "50",
+  "date": "2025-02-25",
+  "startTime": "15:00:00",
+  "endTime": "16:45:00",
+  "distance_in_km": "75",
+  "idWeatherCond": "1",
+  "idRoadCond": "2",
+  "idStateOfTraffic": "4",
+  "idSpeedLimit": "3"
+}]

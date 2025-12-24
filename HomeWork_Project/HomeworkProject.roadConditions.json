@@ -1,0 +1,49 @@
+[{
+  "_id": {
+    "$oid": "682979df1f0e6f42acf16dcf"
+  },
+  "idRoadCond": "1",
+  "roadCondition": "dry road"
+},
+{
+  "_id": {
+    "$oid": "682979df1f0e6f42acf16dd0"
+  },
+  "idRoadCond": "2",
+  "roadCondition": "wet road"
+},
+{
+  "_id": {
+    "$oid": "682979df1f0e6f42acf16dd1"
+  },
+  "idRoadCond": "3",
+  "roadCondition": "muddy road"
+},
+{
+  "_id": {
+    "$oid": "682979df1f0e6f42acf16dd2"
+  },
+  "idRoadCond": "4",
+  "roadCondition": "dirt road"
+},
+{
+  "_id": {
+    "$oid": "682979df1f0e6f42acf16dd3"
+  },
+  "idRoadCond": "5",
+  "roadCondition": "icy road"
+},
+{
+  "_id": {
+    "$oid": "682979df1f0e6f42acf16dd4"
+  },
+  "idRoadCond": "6",
+  "roadCondition": "snow-covered road"
+},
+{
+  "_id": {
+    "$oid": "682979df1f0e6f42acf16dd5"
+  },
+  "idRoadCond": "7",
+  "roadCondition": "sand-covered road"
+}]
